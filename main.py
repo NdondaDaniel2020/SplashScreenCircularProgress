@@ -3,9 +3,9 @@ from PySide6.QtWidgets import *
 from PySide6.QtCore import *
 from PySide6.QtGui import *
 
-from SplashScreen3.ui_main import Ui_MainWindow
-from SplashScreen3.ui_SplashScreenCicle import Ui_SplashScreen
-from SplashScreen3.circular_progress import CircularProgress
+from ui_main import Ui_MainWindow
+from ui_SplashScreenCicle import Ui_SplashScreen
+from circular_progress import CircularProgress
 
 # Globals
 counter = 0
